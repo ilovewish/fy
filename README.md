@@ -13,4 +13,9 @@
 
 包含：维权渠道、建议、案例、话术、和相关法律只是普及~ 
 
+[1](https://github.com/ilovewish/fy/blob/main/images/1.png)
 
+
+[2](https://github.com/ilovewish/fy/blob/main/images/2.png)
+
+[3](https://github.com/ilovewish/fy/blob/main/images/codeview.gif)
